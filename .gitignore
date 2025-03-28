@@ -1,0 +1,6 @@
+venv/
+database/qdrant_storage/
+localhost.env
+dev.env
+homolog.env
+prod.env
